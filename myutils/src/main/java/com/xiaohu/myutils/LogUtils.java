@@ -3,7 +3,7 @@ package com.xiaohu.myutils;
 import android.util.Log;
 
 /**
- * 可以定位日志位置的log工具
+ * 可以定位日志位置的log工具.
  */
 public class LogUtils {
     private static final boolean DEBUG = true;
